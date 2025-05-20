@@ -1,2 +1,6 @@
 Dòng đầu tiên
+ HEAD
 Dòng thay đổi từ feature1
+
+Dòng thay đổi từ feature2
+ feature2
